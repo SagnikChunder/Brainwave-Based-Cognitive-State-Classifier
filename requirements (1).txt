@@ -1,0 +1,6 @@
+mne
+numpy
+matplotlib
+scikit-learn
+joblib
+gradio
